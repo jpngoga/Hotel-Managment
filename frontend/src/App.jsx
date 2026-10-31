@@ -22,6 +22,7 @@ import {
 } from "lucide-react";
 
 import "./App.css";
+import "./components/AddRoom.css";
 
 function App() {
   const [user, setUser] = useState(() => {
