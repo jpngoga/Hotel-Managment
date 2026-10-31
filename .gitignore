@@ -25,3 +25,6 @@ frontend/dist/
 # Editors
 .vscode/
 .idea/
+
+backend/staticfiles/
+backend/media/
